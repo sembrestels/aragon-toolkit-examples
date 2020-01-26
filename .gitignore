@@ -1,0 +1,6 @@
+node_modules
+.cache
+ipfs.cmd
+package-lock.json
+coverage.json
+coverage

@@ -1,0 +1,43 @@
+{
+  "name": "aragon-toolkit-examples",
+  "version": "0.0.1",
+  "description": "Documented examples of the aragonCLI toolkit tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sembrestels/aragon-toolkit-examples.git"
+  },
+  "keywords": [
+    "aragon",
+    "aragoncli",
+    "aragon-toolkit",
+    "dao"
+  ],
+  "author": "David Llop",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sembrestels/aragon-toolkit-examples/issues"
+  },
+  "homepage": "https://github.com/sembrestels/aragon-toolkit-examples#readme",
+  "dependencies": {
+    "@aragon/test-helpers": "^2.1.0",
+    "@aragon/toolkit": "0.0.3",
+    "ethereumjs-abi": "^0.6.8",
+    "web3": "^1.2.5-rc.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^1.19.1"
+  }
+}
