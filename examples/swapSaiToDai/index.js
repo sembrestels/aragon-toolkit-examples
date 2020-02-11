@@ -42,7 +42,7 @@ async function main() {
     },
   ])
   console.log(
-    `npx dao exec ${daoAddress} ${votingAddress} newVote ${script} Swap --environment aragon:mainnet`
+    `npx dao exec ${daoAddress} ${votingAddress} newVote ${script} SwapSaiToDai --environment aragon:mainnet`
   )
 
   process.exit()
