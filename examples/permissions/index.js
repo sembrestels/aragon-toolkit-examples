@@ -10,7 +10,7 @@ const {
   grant,
   revoke,
   environment,
-} = require('./assignations.json')
+} = require('./permissions.json')
 
 async function main() {
   // Encode a bunch of acl changes.
