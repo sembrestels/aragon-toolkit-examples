@@ -1,0 +1,20 @@
+{
+  "daoAddress": "0xCF3509499635423EFdF852B0dA4835E09520c8F3",
+  "votingAddress": "0x47c4db6bbbbc65d2cd504cef157ae94336374c0a",
+  "agentAddress": "0x19c49c44d426a5c6672bee41aece9314f7b9dd70",
+  "environment": "rinkeby",
+  "payments": [
+    {
+      "tokenAddress": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+      "receiverAddress": "0xf2431e56ca02258a36528aa891e31af55d55f9d9",
+      "amount": "5000000000000000000",
+      "receipt": "Metaseed"
+    },
+    {
+      "tokenAddress": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+      "receiverAddress": "0xdec7e367baa5b7ceb94b7b5b85caf844f736bdaa",
+      "amount": "5000000000000000000",
+      "receipt": "The Plank"
+    }
+  ]
+}
